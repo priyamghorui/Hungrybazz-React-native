@@ -1,9 +1,18 @@
 # HungryBazz
 ## About this App
 ### This is a well manage react-native app.
+### All foods and restaurants information fatch from API
+## App Preview
+![file](https://github.com/user-attachments/assets/44b0f8ec-9b13-4bff-b1cd-5fca1586fd54)
+![file (1)](https://github.com/user-attachments/assets/2e75b1e5-b542-4057-a5bf-7b9d9fd6767d)
+
+![file (2)](https://github.com/user-attachments/assets/220452d3-7c54-4cbc-911a-d9707e3f15a5)
+![file (3)](https://github.com/user-attachments/assets/35b819af-c504-4ec3-b0db-104962c930d9)
+
 ## Use Framwork
-### 1. Redux
-### 2. LottieFiles
+### 1. Food API
+### 2. Redux
+### 3. LottieFiles
 ## Use imp Components
 ### 1. Bottom tab
 ### 2. Stack Navigater
